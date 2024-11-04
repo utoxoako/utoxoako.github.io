@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utoxoako.github.io/Qya/sitemap_index.txt
+Sitemap: https://utoxoako.github.io/WCe/sitemap_index.txt
+Sitemap: https://utoxoako.github.io/dGk/sitemap_index.txt
+Sitemap: https://utoxoako.github.io/vVh/sitemap_index.txt
